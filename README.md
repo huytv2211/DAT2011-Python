@@ -7,7 +7,7 @@ Repo này được thiết kế cho **8 Lab** và ** 1Assignment (ASM)**.
 ## Hướng dẫn sử dụng
 1. Nhấn **Use this template** để tạo repo riêng.
 2. Mỗi Lab sẽ nằm trong thư mục `Lab01`, `Lab02`, ..., `Lab08`.
-3. Mỗi Assignment sẽ nằm trong thư mục `ASM01`, `ASM02`, `ASMFN`.
+3. Assignment sẽ nằm trong thư mục `ASM`.
 4. Trong từng Lab/ASM có sẵn file Python (`.py`) để sinh viên điền code.
 
 ## Nội dung
